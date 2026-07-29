@@ -4,7 +4,7 @@ Predicting which employees are likely to leave (Attrition) and explaining *why* 
 
 ## Overview
 
-This notebook (`ML_Project__v10.ipynb`) walks through a full classification workflow: EDA, cleaning, preprocessing, model training with proper SMOTE handling inside cross-validation, hyperparameter tuning, model comparison, and explainability with SHAP.
+The notebook (`ML_Project_Final.ipynb`) walks through a full classification workflow: EDA, cleaning, preprocessing, model training with proper SMOTE handling inside cross-validation, hyperparameter tuning, model comparison, and explainability with SHAP.
 
 **Dataset:** `IBM_Employee_Attrition_Dataset.csv` — 1,470 employee records, 35 columns (34 features + `Attrition` target). The target is imbalanced (~84% "No" / ~16% "Yes").
 
